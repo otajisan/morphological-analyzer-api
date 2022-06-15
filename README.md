@@ -53,6 +53,7 @@ poetry run uvicorn api.main:app --reload
 
 # Open API
 - http://localhost:8000/docs
+![image](https://user-images.githubusercontent.com/5608492/173790749-d8ce1f04-1ec8-44f1-b59b-d5044a6b6895.png)
 
 # Use AWS Unidic
 
